@@ -57,7 +57,7 @@
 <section>
   <h2>Contact Me</h2>
   <p>Let’s work together! Reach out with your project details:</p>
-  <p><strong>Email:</strong> asemkofosu@gmail.com</p>
+  <p><strong>Email:</strong> asemrodney462@gmail.com</p>
   <p><strong>Reddit DM:</strong> <a href="https://www.reddit.com/user/Titanic_Developer" target="_blank">@Titanic_Developer</a></p>
 </section>
 
